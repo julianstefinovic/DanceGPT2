@@ -25,29 +25,24 @@ You can listen to some of the generated dance music samples below:
 #### Sample 1
 <audio controls>
   <source src="longer_audio_samples/audio_sample_1.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
 
 #### Sample 2
 <audio controls>
   <source src="longer_audio_samples/audio_sample_2.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
 
 #### Sample 3
 <audio controls>
   <source src="longer_audio_samples/audio_sample_3.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
 
 #### Sample 4
 <audio controls>
   <source src="longer_audio_samples/audio_sample_4.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
 
 #### Sample 5
 <audio controls>
   <source src="longer_audio_samples/audio_sample_5.wav" type="audio/wav">
-  Your browser does not support the audio element.
 </audio>
