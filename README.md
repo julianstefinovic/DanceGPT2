@@ -2,7 +2,7 @@
 
 Welcome to DanceGPT2.
 
-This repository contains code for training a GPT-2 model to unconditionally generate dance music. By leveraging the high fidelity neural audio compression codec, EnCodec, audio is converted into a set of codes which are then fed to the GPT-2 Transformer. After training, the model can create new dance music tracks.
+This repository contains code for training a GPT-2 model to unconditionally generate dance music. By leveraging the high fidelity neural audio compression codec, EnCodec, audio is converted into a set of codes which are then fed to the GPT-2 Decoder-only Transformer. After training, the model can create new dance music tracks.
 
 The model is also capable of generating longer examples as well as continuing existing music.
 
