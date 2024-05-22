@@ -11,7 +11,7 @@ The model is also capable of generating longer examples as well as continuing ex
 The project focuses on generating dance music using the following workflow:
 1. **Audio Compression**: Using the EnCodec codec to convert audio segments into a sequence of tokens or "codes".
 2. **Training GPT-2**: Training the GPT-2 model on the tokenized audio data.
-3. **Music Generation (Inference)**: Prompting the trained GPT-2 model to generate new dance music tracks.
+3. **Music Generation (Inference)**: Prompting the trained GPT-2 model to generate the aforementioned "codes", then decoding via EnCodec to create new dance music tracks.
 
 ## Repository Contents
 
