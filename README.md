@@ -20,4 +20,4 @@ The project focuses on generating dance music using the following workflow:
 
 ## Trained Model Weights
 
-To load the model weights from a checkpoint, please find the `model.safetensors` file in [this](https://huggingface.co/JulianS/DanceGPT2/tree/main) HuggingFace repository and use the location of the file as the `checkpoint_dir` in the `training.ipynb` codebook. 
+To load the model weights from a checkpoint, please find the `model.safetensors` file in [this](https://huggingface.co/JulianS/DanceGPT2/tree/main) HuggingFace repository and use the file path as the `checkpoint_dir` in the `training.ipynb` notebook. 
